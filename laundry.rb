@@ -26,7 +26,7 @@ end
   wash(60)
   dry(:drum_heavy_kick)
 end
-3.times do
+10.times do
   wear(2)
   wash(70)
   dry(:drum_cymbal_hard)
